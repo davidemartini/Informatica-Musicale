@@ -1,11 +1,8 @@
 # Informatica-Musicale
 
 Develop by MARTINI DAVIDE and NIGRO SIMONE under the coordination of MICHELONI EDOARDO.
-
 Project developed for "Informatica Musicale" course. 
 The professors in charge of this course are Antonio Rodà, Giovanni De Poli, Sergio Canazza of University of Padua.
-
-For more information and the description of the steps of this project read the paper "Piano detection.pdf"
 
 GOAL: detection and classification of audio in piano or other.
 
@@ -18,7 +15,6 @@ Features used in this project:
 	- Silence Ratio (sr).
 	
 	- Harmonicity of signal (peaks).
-
 
 sr > 0.99 
 
